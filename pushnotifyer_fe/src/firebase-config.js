@@ -8,7 +8,7 @@ import { getMessaging } from "firebase/messaging";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 //  const firebaseConfig = {
-//   apiKey: "AIzaSyCXeut3ZLlmHJ5d9niVNJOQBVFdm3J9M8g",
+//
 //   authDomain: "posting-blog-333c3.firebaseapp.com",
 //   projectId: "posting-blog-333c3",
 //   storageBucket: "posting-blog-333c3.firebasestorage.app",
