@@ -16,7 +16,7 @@ const defaultConfig = {
 };
 
 // const firebaseConfig = {
-//   apiKey: "AIzaSyCXeut3ZLlmHJ5d9niVNJOQBVFdm3J9M8g",
+//   
 //   authDomain: "posting-blog-333c3.firebaseapp.com",
 //   projectId: "posting-blog-333c3",
 //   storageBucket: "posting-blog-333c3.firebasestorage.app",
